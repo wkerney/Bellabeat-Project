@@ -1,5 +1,5 @@
 # Bellabeat-Project
-Google DA Capstone Project
+This is the Google Data Analyst Professional Certificate Capstone Project. 
 In this case study, I performed a task of a junior data
 analyst. Working for a fictional company called Bellabeat, a high-tech manufacturer of health-focused products for women, and
 met different characters and team members. In order to answer the key business questions, I followed the steps of the
